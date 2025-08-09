@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://raproulx.github.io/nddeltat/galleries/may/index.html</loc>
-    <lastmod>2025-08-08T08:59:08.683Z</lastmod>
-  </url>
-  <url>
-    <loc>https://raproulx.github.io/nddeltat/galleries/jul/index.html</loc>
-    <lastmod>2025-08-08T08:59:08.625Z</lastmod>
-  </url>
-  <url>
-    <loc>https://raproulx.github.io/nddeltat/forecast.html</loc>
-    <lastmod>2025-08-08T08:56:42.995Z</lastmod>
-  </url>
-  <url>
-    <loc>https://raproulx.github.io/nddeltat/historical.html</loc>
-    <lastmod>2025-08-08T08:56:43.236Z</lastmod>
+    <loc>https://raproulx.github.io/nddeltat/index.html</loc>
+    <lastmod>2025-08-09T08:49:32.931Z</lastmod>
   </url>
   <url>
     <loc>https://raproulx.github.io/nddeltat/galleries.html</loc>
-    <lastmod>2025-08-08T08:56:42.996Z</lastmod>
+    <lastmod>2025-08-09T08:49:32.689Z</lastmod>
   </url>
   <url>
-    <loc>https://raproulx.github.io/nddeltat/about.html</loc>
-    <lastmod>2025-08-08T08:56:42.879Z</lastmod>
-  </url>
-  <url>
-    <loc>https://raproulx.github.io/nddeltat/index.html</loc>
-    <lastmod>2025-08-08T08:56:43.236Z</lastmod>
+    <loc>https://raproulx.github.io/nddeltat/forecast.html</loc>
+    <lastmod>2025-08-09T08:49:32.688Z</lastmod>
   </url>
   <url>
     <loc>https://raproulx.github.io/nddeltat/galleries/aug/index.html</loc>
-    <lastmod>2025-08-08T08:59:08.588Z</lastmod>
+    <lastmod>2025-08-09T08:53:20.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raproulx.github.io/nddeltat/galleries/jul/index.html</loc>
+    <lastmod>2025-08-09T08:53:20.122Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raproulx.github.io/nddeltat/galleries/may/index.html</loc>
+    <lastmod>2025-08-09T08:53:20.181Z</lastmod>
   </url>
   <url>
     <loc>https://raproulx.github.io/nddeltat/galleries/jun/index.html</loc>
-    <lastmod>2025-08-08T08:59:08.653Z</lastmod>
+    <lastmod>2025-08-09T08:53:20.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raproulx.github.io/nddeltat/historical.html</loc>
+    <lastmod>2025-08-09T08:49:32.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raproulx.github.io/nddeltat/about.html</loc>
+    <lastmod>2025-08-09T08:49:32.572Z</lastmod>
   </url>
 </urlset>

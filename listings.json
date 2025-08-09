@@ -2,10 +2,10 @@
   {
     "listing": "/galleries.html",
     "items": [
-      "/galleries/aug/index.html",
       "/galleries/jul/index.html",
-      "/galleries/jun/index.html",
-      "/galleries/may/index.html"
+      "/galleries/may/index.html",
+      "/galleries/aug/index.html",
+      "/galleries/jun/index.html"
     ]
   }
 ]
